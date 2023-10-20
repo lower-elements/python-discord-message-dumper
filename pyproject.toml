@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-discord-message-dumper"
+version = "0.1.0"
+description = ""
+authors = ["the_byte_bender <cccefg2@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+discord-py = "^2.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
